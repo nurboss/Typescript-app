@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React-Typescript Todo App
 
-React-Typescript Todo App[Live Site ](https://sad-hopper-cde510.netlify.app/).
+React-Typescript Todo App [Live Site ](https://sad-hopper-cde510.netlify.app/).
 
 ## Available Scripts
 
