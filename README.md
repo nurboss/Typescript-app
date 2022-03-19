@@ -1,10 +1,12 @@
 # Getting Started with Create React App
 
-React-Typescript Todo App[Live Site](https://sad-hopper-cde510.netlify.app/).
+React-Typescript Todo App[Live Site ](https://sad-hopper-cde510.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+# You can add and remove any text you want.
+# I have used local Storage to save to data.
+# TypeScript is been used in thi app.
 
 ### `npm start`
 
